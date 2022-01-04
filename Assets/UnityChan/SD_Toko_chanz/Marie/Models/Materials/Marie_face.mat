@@ -4,8 +4,9 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: Marie_face
   m_Shader: {fileID: 4800000, guid: ca035891872022e4f80c952b3916e450, type: 3}
   m_ShaderKeywords: _INVERSE_Z_AXIS_BLD_ON _IS_BLENDADDTOMATCAP_ON _IS_BLENDBASECOLOR_ON
@@ -62,7 +63,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 95e684ee38423de45bc560dad857eaa4, type: 3}
+        m_Texture: {fileID: 2800000, guid: 6a88bc9176fd3784785b822be69c40fb, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MatCap_Sampler:
@@ -225,3 +226,4 @@ Material:
     - _MatCapColor: {r: 1, g: 1, b: 1, a: 1}
     - _Outline_Color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
     - _RimLightColor: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []
